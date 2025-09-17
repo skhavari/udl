@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+*.log
+
+# OS/editor files
+.DS_Store
+**/.DS_Store
+
+# Temp
+tmp/
+.temp/
+*.tmp

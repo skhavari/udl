@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Understanding Deep Learning</title>
+    <link>https://www.udlbook.com</link>
+    <language>en-us</language>
+    <itunes:author>Simon J.D. Prince</itunes:author>
+    <itunes:subtitle>Principles and Knowledge of AI</itunes:subtitle> <description>Understanding Deep Learning is a textbook that explains the fundamental ideas underlying the field, distinguishing itself from volumes that focus on coding and practical implementation. The book is comprehensively structured around supervised, unsupervised, and reinforcement learning, covering foundational neural networks, the complete training pipeline, specialized architectures like transformers, and advanced generative models. It concludes by exploring open questions about why deep learning works so effectively and addresses the critical ethical implications of AI</description>
+    <itunes:owner>
+      <itunes:name>Simon J.D. Prince</itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://skhavari.github.io/udlbook/podcast/cover.png" />
+    <itunes:category text="Education"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type> 
+    <item>
+      <title>Introduction</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_1_Introduction.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_1_Introduction.m4a" length="34499586" type="audio/x-m4a" />
+      <itunes:duration>00:17:51</itunes:duration>
+      <itunes:summary>This chapter introduces the three main areas of machine learning—supervised, unsupervised, and reinforcement learning—along with a brief primer on AI ethics and the overall structure of the book.</itunes:summary>
+      <description>This chapter introduces the three main areas of machine learning—supervised, unsupervised, and reinforcement learning—along with a brief primer on AI ethics and the overall structure of the book.</description>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Supervised Learning</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_2_Supervised_Learning.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_2_Supervised_Learning.m4a" length="42051079" type="audio/x-m4a" />
+      <itunes:duration>00:21:46</itunes:duration>
+      <itunes:summary>This chapter formally defines the supervised learning framework, where a model&apos;s parameters are trained to minimize a loss function that quantifies the mismatch between its predictions and true outputs, using linear regression as a concrete example.</itunes:summary>
+      <description>This chapter formally defines the supervised learning framework, where a model&apos;s parameters are trained to minimize a loss function that quantifies the mismatch between its predictions and true outputs, using linear regression as a concrete example.</description>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Shallow Networks</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_3_Shallow_Networks.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_3_Shallow_Networks.m4a" length="37433503" type="audio/x-m4a" />
+      <itunes:duration>00:19:23</itunes:duration>
+      <itunes:summary>This chapter introduces shallow neural networks, which describe piecewise linear functions capable of approximating arbitrarily complex relationships between multi-dimensional inputs and outputs using a single hidden layer.</itunes:summary>
+      <description>This chapter introduces shallow neural networks, which describe piecewise linear functions capable of approximating arbitrarily complex relationships between multi-dimensional inputs and outputs using a single hidden layer.</description>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Deep Neural Networks</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_4_Deep_Neural_Networks.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_4_Deep_Neural_Networks.m4a" length="21083878" type="audio/x-m4a" />
+      <itunes:duration>00:10:55</itunes:duration>
+      <itunes:summary>This chapter describes deep neural networks, which stack multiple hidden layers to create more complex piecewise linear functions than shallow networks for a given number of parameters.</itunes:summary>
+      <description>This chapter describes deep neural networks, which stack multiple hidden layers to create more complex piecewise linear functions than shallow networks for a given number of parameters.</description>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Loss Function</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_5_Loss_Function.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_5_Loss_Function.m4a" length="32011020" type="audio/x-m4a" />
+      <itunes:duration>00:16:34</itunes:duration>
+      <itunes:summary>This chapter explains how to construct loss functions by viewing models as computing probability distributions over outputs and then finding parameters that maximize the likelihood of the training data.</itunes:summary>
+      <description>This chapter explains how to construct loss functions by viewing models as computing probability distributions over outputs and then finding parameters that maximize the likelihood of the training data.</description>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Fitting Model</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_6_Fitting_Model.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_6_Fitting_Model.m4a" length="35663073" type="audio/x-m4a" />
+      <itunes:duration>00:18:28</itunes:duration>
+      <itunes:summary>This chapter covers iterative optimization algorithms like gradient descent, stochastic gradient descent (SGD), and Adam, which adjust a model&apos;s parameters based on loss function gradients to find values that minimize prediction errors.</itunes:summary>
+      <description>This chapter covers iterative optimization algorithms like gradient descent, stochastic gradient descent (SGD), and Adam, which adjust a model&apos;s parameters based on loss function gradients to find values that minimize prediction errors.</description>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Gradients and initialization</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_7_Gradients_and_initialization.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_7_Gradients_and_initialization.m4a" length="25205304" type="audio/x-m4a" />
+      <itunes:duration>00:13:03</itunes:duration>
+      <itunes:summary>This chapter explains how to efficiently compute the gradients needed for training via the backpropagation algorithm and how to properly initialize network parameters to ensure stable learning.</itunes:summary>
+      <description>This chapter explains how to efficiently compute the gradients needed for training via the backpropagation algorithm and how to properly initialize network parameters to ensure stable learning.</description>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Measuring Performance</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_8_Measuring_Performance.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_8_Measuring_Performance.m4a" length="24783858" type="audio/x-m4a" />
+      <itunes:duration>00:12:50</itunes:duration>
+      <itunes:summary>This chapter discusses measuring model performance on test data by analyzing the sources of error—noise, bias, and variance—and introduces the double descent phenomenon and methods for choosing hyperparameters.</itunes:summary>
+      <description>This chapter discusses measuring model performance on test data by analyzing the sources of error—noise, bias, and variance—and introduces the double descent phenomenon and methods for choosing hyperparameters.</description>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Regularization</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_9_Regularization.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_9_Regularization.m4a" length="38979706" type="audio/x-m4a" />
+      <itunes:duration>00:20:11</itunes:duration>
+      <itunes:summary>This chapter describes regularization techniques, including explicit methods like adding penalty terms to the loss function and implicit methods arising from the training algorithm, which are used to improve a model&apos;s generalization to new data.</itunes:summary>
+      <description>This chapter describes regularization techniques, including explicit methods like adding penalty terms to the loss function and implicit methods arising from the training algorithm, which are used to improve a model&apos;s generalization to new data.</description>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Convolutionall Networks</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_10_Convolutionall_Networks.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_10_Convolutionall_Networks.m4a" length="30298974" type="audio/x-m4a" />
+      <itunes:duration>00:15:41</itunes:duration>
+      <itunes:summary>This chapter introduces convolutional networks, which are specialized for processing grid-like data like images by using shared-parameter convolutional layers that are equivariant to translation.</itunes:summary>
+      <description>This chapter introduces convolutional networks, which are specialized for processing grid-like data like images by using shared-parameter convolutional layers that are equivariant to translation.</description>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Residual Networks</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_11_Residual_Networks.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_11_Residual_Networks.m4a" length="28952347" type="audio/x-m4a" />
+      <itunes:duration>00:14:59</itunes:duration>
+      <itunes:summary>This chapter introduces residual networks, which use residual connections and batch normalization to enable the stable training of much deeper neural network architectures.</itunes:summary>
+      <description>This chapter introduces residual networks, which use residual connections and batch normalization to enable the stable training of much deeper neural network architectures.</description>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Transformers</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_12_Transformers.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_12_Transformers.m4a" length="40856963" type="audio/x-m4a" />
+      <itunes:duration>00:21:09</itunes:duration>
+      <itunes:summary>This chapter introduces transformers, a network architecture based on self-attention that processes variable-length sequences by allowing each input element to interact with every other element.</itunes:summary>
+      <description>This chapter introduces transformers, a network architecture based on self-attention that processes variable-length sequences by allowing each input element to interact with every other element.</description>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Graph Neural Networks</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_13_Graph_Neural_Networks.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_13_Graph_Neural_Networks.m4a" length="31234615" type="audio/x-m4a" />
+      <itunes:duration>00:16:10</itunes:duration>
+      <itunes:summary>This chapter describes graph neural networks, which are architectures designed to process graph-structured data by updating node embeddings based on aggregated information from their neighbors.</itunes:summary>
+      <description>This chapter describes graph neural networks, which are architectures designed to process graph-structured data by updating node embeddings based on aggregated information from their neighbors.</description>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Unsupervised learning</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_14_Unsupervised_learning.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_14_Unsupervised_learning.m4a" length="30435682" type="audio/x-m4a" />
+      <itunes:duration>00:15:45</itunes:duration>
+      <itunes:summary>This chapter provides a taxonomy of unsupervised learning models, focusing on generative models that learn to synthesize new data, and discusses the desirable properties and performance metrics for these models.</itunes:summary>
+      <description>This chapter provides a taxonomy of unsupervised learning models, focusing on generative models that learn to synthesize new data, and discusses the desirable properties and performance metrics for these models.</description>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Generative Adversarial Networks</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_15_Generative_Adversarial_Networks.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_15_Generative_Adversarial_Networks.m4a" length="33954016" type="audio/x-m4a" />
+      <itunes:duration>00:17:34</itunes:duration>
+      <itunes:summary>This chapter describes generative adversarial networks (GANs), which use a generator network to create new samples and a discriminator network to distinguish them from real data, resulting in a competitive training process that produces realistic samples.</itunes:summary>
+      <description>This chapter describes generative adversarial networks (GANs), which use a generator network to create new samples and a discriminator network to distinguish them from real data, resulting in a competitive training process that produces realistic samples.</description>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Normalization Flows</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_16_Normalization_Flows.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_16_Normalization_Flows.m4a" length="30658416" type="audio/x-m4a" />
+      <itunes:duration>00:15:52</itunes:duration>
+      <itunes:summary>This chapter introduces normalizing flows, a type of probabilistic generative model that learns a complex data distribution by applying a sequence of invertible transformations to a simple base density.</itunes:summary>
+      <description>This chapter introduces normalizing flows, a type of probabilistic generative model that learns a complex data distribution by applying a sequence of invertible transformations to a simple base density.</description>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Variational Autoencoders</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_17_Variational_Autoencoders.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_17_Variational_Autoencoders.m4a" length="50746004" type="audio/x-m4a" />
+      <itunes:duration>00:26:16</itunes:duration>
+      <itunes:summary>This chapter explains variational autoencoders, which are probabilistic generative models that learn a mapping from a latent space to the data space by maximizing a lower bound on the data likelihood.</itunes:summary>
+      <description>This chapter explains variational autoencoders, which are probabilistic generative models that learn a mapping from a latent space to the data space by maximizing a lower bound on the data likelihood.</description>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Diffusion Models</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_18_Diffusion_Models.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_18_Diffusion_Models.m4a" length="23990902" type="audio/x-m4a" />
+      <itunes:duration>00:12:25</itunes:duration>
+      <itunes:summary>This chapter introduces diffusion models, which learn to reverse a fixed process of gradually adding noise to data, enabling the generation of high-quality samples by starting with pure noise and progressively denoising it.</itunes:summary>
+      <description>This chapter introduces diffusion models, which learn to reverse a fixed process of gradually adding noise to data, enabling the generation of high-quality samples by starting with pure noise and progressively denoising it.</description>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Reinforcement Learning</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_19_Reinforcement_Learning.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_19_Reinforcement_Learning.m4a" length="45106132" type="audio/x-m4a" />
+      <itunes:duration>00:23:21</itunes:duration>
+      <itunes:summary>This chapter introduces reinforcement learning, a sequential decision-making framework where agents learn actions to maximize rewards, and discusses how deep networks are used in methods like Deep Q-Learning and policy gradients.</itunes:summary>
+      <description>This chapter introduces reinforcement learning, a sequential decision-making framework where agents learn actions to maximize rewards, and discusses how deep networks are used in methods like Deep Q-Learning and policy gradients.</description>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Why does deep learning work</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_20_Why_does_deep_learning_work.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_20_Why_does_deep_learning_work.m4a" length="37330412" type="audio/x-m4a" />
+      <itunes:duration>00:19:19</itunes:duration>
+      <itunes:summary>This chapter explores the open questions of why deep learning models are surprisingly easy to train and why they generalize well to new data, despite their complexity and overparameterization.</itunes:summary>
+      <description>This chapter explores the open questions of why deep learning models are surprisingly easy to train and why they generalize well to new data, despite their complexity and overparameterization.</description>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Deep learning and ethics</title>
+      <pubDate>Wed, 17 Sep 2025 23:18:50 GMT</pubDate>
+      <guid isPermaLink="false">https://skhavari.github.io/udlbook/podcast/audio/Chapter_21_Deep_learning_and_ethics.m4a</guid>
+      <enclosure url="https://skhavari.github.io/udlbook/podcast/audio/Chapter_21_Deep_learning_and_ethics.m4a" length="28521074" type="audio/x-m4a" />
+      <itunes:duration>00:14:46</itunes:duration>
+      <itunes:summary>This chapter discusses the ethical implications of AI, including value alignment, algorithmic bias, potential for misuse, and the broader social and professional responsibilities of practitioners in the field.</itunes:summary>
+      <description>This chapter discusses the ethical implications of AI, including value alignment, algorithmic bias, potential for misuse, and the broader social and professional responsibilities of practitioners in the field.</description>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
