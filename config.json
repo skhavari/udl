@@ -3,8 +3,8 @@
     "podcastLink": "https://www.udlbook.com",
     "podcastDescription": "Understanding Deep Learning is a textbook that explains the fundamental ideas underlying the field, distinguishing itself from volumes that focus on coding and practical implementation. The book is comprehensively structured around supervised, unsupervised, and reinforcement learning, covering foundational neural networks, the complete training pipeline, specialized architectures like transformers, and advanced generative models. It concludes by exploring open questions about why deep learning works so effectively and addresses the critical ethical implications of AI",
     "author": "Simon J.D. Prince",
-    "coverArtURL": "https://skhavari.github.io/udlbook/podcast/cover.png",
-    "audioBaseURL": "https://skhavari.github.io/udlbook/podcast/audio/",
+    "coverArtURL": "https://skhavari.github.io/udl/podcast/cover.png",
+    "audioBaseURL": "https://skhavari.github.io/udl/podcast/audio/",
     "chaptersDirectory": "./podcast/audio",
     "outputFile": "podcast/rss.xml",
     "fileExtension": ".m4a"
